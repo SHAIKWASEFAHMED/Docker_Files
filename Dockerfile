@@ -1,2 +1,2 @@
 FROM almalinux
-f
+wowdddd
